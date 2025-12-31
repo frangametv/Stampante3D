@@ -3,6 +3,8 @@
 
 ## 🔗 Link:
 * **IMPORTANTE:** https://jtmuller5.medium.com/no-the-cubepro-is-not-obsolete-d1ef26927650
+* **Ricarica Filamento:** http://www.haxtom.com/?p=78
+* **Modifica il Firmware per i Filamenti:** https://builds.openbuilds.com/threads/cube-3-pro-hacks.8420/
 * **Informazioni:** https://www.3dbeginners.com/cubepro-3d-printer-review/
 * **Teardown:** https://dyzedesign.com/2018/09/cube-pro-total-conversion-step-by-step-guide/
 
