@@ -10,7 +10,7 @@
 
 ---
 
-## ⚙️ Specifiche Tecniche (probabili)
+## ⚙️ Specifiche Tecniche
 | Caratteristica       | Dato                      |
 | -------------------- | ------------------------- |
 | Volume stampa        | **28.5 × 27.0 × 23.0 cm** |
@@ -21,8 +21,6 @@
 | Connessione          | USB, USB Stick, WiFi      |
 | Peso                 | **~41 kg (90.7 lbs)**     |
 | Display              | Touch a colori            |
-
-🎨 Disponibili **24 colori** di filamento (cartucce proprietarie).
 
 💡 Stampa meglio in PLA che in ABS e Nylon
 
@@ -59,7 +57,7 @@
 
 ## 💻 Software
 * Ultimaker Cura + Plugin: https://ultimaker.com/software/ultimaker-cura/#downloads + https://github.com/mirdoc/Cura-CubePrinterPlugin
-* 3D Sprint: https://www.3dsystems.com/software/3d-sprint
+* Cube Pro Originale: Già presente nei File
 
 ---
 
