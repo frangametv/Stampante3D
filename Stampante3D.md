@@ -56,8 +56,8 @@
 ---
 
 ## 💻 Software
-* Ultimaker Cura + Plugin: https://ultimaker.com/software/ultimaker-cura/#downloads + https://github.com/mirdoc/Cura-CubePrinterPlugin
 * Cube Pro Originale: Già presente nei File
+* Ultimaker Cura + Plugin: https://ultimaker.com/software/ultimaker-cura/#downloads + https://github.com/mirdoc/Cura-CubePrinterPlugin
 
 ---
 
